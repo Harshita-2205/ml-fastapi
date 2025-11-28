@@ -116,6 +116,5 @@ uvicorn app.main:app --reload
 
 This project is licensed under the MIT License.
 
-## 📬 Contact
 
-For any issues or suggestions, reach out at [reckerdev@gmail.com](mailto:reckerdev@gmail.com).
+
